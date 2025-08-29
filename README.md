@@ -3,6 +3,7 @@
 Bright Coffee Shop is a growing coffee business that recently appointed a new CEO whose mission is to increase revenue and improve product performance. As a Junior Data Analyst, my role is to analyze the company’s historical sales transactions and extract actionable insights that can guide decision-making and future strategy.
 
 # Problem Statement
+The former CEO of Bright Coffee Shop was dismissed due to stagnant revenue growth and poor strategic decisions that failed to improve company performance. Even though the shop had regular customers, the management did not know which products made the most money, what times of day had the highest sales, or how sales changed over time. This lack of information led to poor stock management, weak marketing, and missed chances to increase profit. The new CEO now wants to use data analysis to understand the company's current position and find ways to grow.
 
 # Aim
 To analyze Bright Coffee Shop’s sales data and provide insights that will help the CEO understand the company’s performance and identify areas for revenue growth.
